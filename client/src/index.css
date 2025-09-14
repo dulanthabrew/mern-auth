@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Epunda+Slab:ital,wght@0,300..900;1,300..900&family=Libertinus+Keyboard&family=Outfit&family=Smooch+Sans:wght@100..900&display=swap");
+@import "tailwindcss";
+
+* {
+  font-family: "Smooch Sans", sans-serif;
+}
