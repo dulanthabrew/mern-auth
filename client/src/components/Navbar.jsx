@@ -52,7 +52,7 @@ const Navbar = () => {
             <ul className="list-non m-0 p-2 bg-gray-100 text-sm">
               {!userData.isAccountVerified && (
                 <li
-                  onClick={sendVerifycationOtp}
+                  onClick={sendVerificationOtp}
                   className="py-1 px-2 hover:bg-gray-200 cursor-pointer"
                 >
                   Verify Email
